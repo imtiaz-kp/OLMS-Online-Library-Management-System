@@ -1,0 +1,12 @@
+
+tutorial
+download xamp and install 
+copy this whole file(OLMS) c drive->xamp->htdoc file 
+open xamp
+start apache
+start mysql and click MySql admin
+create a database in the name "library"
+go to database "library" and import "library.sql" to database
+      clik import and choose the file library.sql from xamp/htdoc/OLMS/SQLfile/library.sql
+      it will import all tables into the database 
+open any browser and paste "http://localhost/OLMS-Online-Library-Management-System" 
